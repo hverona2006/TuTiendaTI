@@ -1,0 +1,6 @@
+[31-May-2020 21:30:25 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/marcoagu/www.tutiendati.com/pag/categorias.php on line 31
+[01-Jun-2020 19:45:47 America/Chicago] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home3/marcoagu/www.tutiendati.com/pag/categorias.php on line 31
+[12-Jun-2020 13:31:23 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home3/marcoagu/www.tutiendati.com/pag/cart.php on line 38
+[13-Jun-2020 16:49:20 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home3/marcoagu/www.tutiendati.com/pag/cart.php on line 38
+[13-Jun-2020 16:50:08 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home3/marcoagu/www.tutiendati.com/pag/cart.php on line 38
+[13-Jun-2020 16:58:34 America/Chicago] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home3/marcoagu/www.tutiendati.com/pag/cart.php on line 38
